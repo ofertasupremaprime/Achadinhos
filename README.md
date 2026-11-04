@@ -1,4 +1,4 @@
-# Lorena Achadinhos — versão final
+# OfertaSupremaPrime — versão final
 
 Todos os arquivos deste projeto ficam na mesma pasta para facilitar o envio ao GitHub Pages.
 
@@ -6,7 +6,6 @@ Envie para a raiz do repositório:
 - index.html
 - style.css
 - script.js
-- logo-lorena-achadinhos.png
 - avatares.png
 - favicon.png
 - shopee.svg
